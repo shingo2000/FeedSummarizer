@@ -1,5 +1,6 @@
 # FeedSummarizer
-Feedly API+ChatGPT+Slack API+GASでデザインの英語記事を毎朝おすすめしてくれるSlackボットです。
+Feedlyにフィード登録した英語記事から毎朝おすすめの記事を日本語要約して投稿するSlackボットです。
+Feedly API、ChatGPT、Slack APIをGoogle Apps　Scriptから利用しています。
 
 前提として以下の準備が必要です。
 - Google Apps Scriptの利用
@@ -10,4 +11,4 @@ Feedly API+ChatGPT+Slack API+GASでデザインの英語記事を毎朝おすす
 
 Google Apps Scriptから時間主導型のトリガーを設定して実行します。
 
-解説記事：
+解説記事： https://note.com/shingo2000/n/n227ccba3e2b8
